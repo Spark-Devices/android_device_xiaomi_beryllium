@@ -6,3 +6,9 @@ ro.recovery.ui.margin_height=87
 
 # Graphics
 ro.surface_flinger.has_HDR_display=true
+
+#spark props
+ro.spark.maintainer=Sourav™
+ro.spark.device.name=Xiaomi POCO F1
+ro.spark.group.url=https://t.me/resist15_beryllium
+ro.spark.maintainer.username=xyz_sourav
