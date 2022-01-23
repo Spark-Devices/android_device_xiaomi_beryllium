@@ -686,6 +686,10 @@
          -->
     <string translatable="false" name="config_mainBuiltInDisplayCutout">M -270,0 L -270,86 L 270,86 L 270,0 Z</string>
 
+     <!-- Statusbar Left-Right padding defaults -->
+    <integer name="config_statusbarPaddingStartDef">12</integer>
+    <integer name="config_statusbarPaddingEndDef">0</integer>
+
     <!-- Height of the status bar -->
     <dimen name="status_bar_height_portrait">86.0px</dimen>
     <dimen name="status_bar_height_landscape">86.0px</dimen>
